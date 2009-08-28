@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Naughty Teacher (History 101)</string>
+	<string-array name="level_1_questions">
+		<item>MC::Who was the first president of the United States?::George Washington::Alexander Hamilton::James Madison::Benjamin Franklin::Abraham Lincoln::James K Polk</item>
+		<item>MC::Fill in the blank: The Boston _____ Party::Tea::Massacre::Indian::Democratic::Keg::Stamp::Whig</item>
+		<item>MC::How many states were in the original United States?::13::10::7::17::19::50::26</item>
+		<item>MC::What were the two sides called in the Civil War?::Union and Confederacy::East and West::Blue and Red::Government and Rebel::Yankees and Dixies</item>
+		<item>MC::Which of the following was a key element of the Industrial Revolution?::Steam Power::Bronze::Nuclear Power::Electric Light::Flight</item>
+		<item>MC::What valuable substance drew people to California in the mid-1800\'s?::gold::textiles::iron::coal::fresh water</item>
+		<item>MC::Which of the following was an ally of the United States in World War I?::France::Germany::Austria-Hungary::Ottoman Empire::Bulgaria</item>
+		<item>MC::Who launched a surprise attack on Pearl Harbor naval base in 1941?::Japan::Germany::Italy::Korea::Russia</item>
+		<item>MC::Who was the United States\' opponent in the Cold War?::Soviet Union::France::Japan::Cuba::China::Sweden</item>
+		<item>MC::Which of the following was not a President of the United States?::Benjamin Franklin::Ronald Reagan::John F. Kennedy::Teddy Roosevelt::Ulysses S Grant</item>
+		<item>MC::What was the name of the Pilgrims\' ship?::The Mayflower::The Santa Maria::The Maine::The Nina::The Pinta::USS Kennedy</item>
+		<item>MC::What date was the Declaration of Independence signed?::July 4th, 1776::July 4th, 1789::August 2nd, 1789::September 4th, 1776::January 1st, 1770</item>
+		<item>MC::Which of the following was instrumental in the Underground Railroad?::Harriet Tubman::Abraham Lincoln::Thomas Jefferson::Robert E. Lee::Nat Turner</item>
+		<item>MC::The New Deal was a response to what historical event?::The Great Depression::The Industrial Revolution::World War II::The Cold War::The Civil Rights Movement</item>
+		<item>MC::Who delivered the famous  \"I have a dream...\" speech?::Martin Luther King Jr.::Robert Kennedy::John F Kennedy::Helen Keller::Ronald Reagan</item>
+		<item>MC::What two Asian nations did the United States fight wars in in the second half of the 20th century?::Vietnam and Korea::Vietnam and China::Korean and Japan::Singapore and Laos::China and Taiwan</item>
+		<item>MC::The Revolutionary War separated the United States from the rule of which country?::England::France::Canada::Spain::Italy::Russia</item>
+		<item>MC::What year did Columbus land in America?::1492::1518::1457::1812::1268</item>
+		<item>MC::Which of these was a primary issue that caused the Civil War?::slavery::gun control::railroads::military spending::trade restrictions::France</item>
+		<item>MC::Alexander Graham Bell invented what device?::telephone::computer::automobile::steam train::cell phone</item>
+		<item>MC::World War I was fought in what decade?::1910\'s::1920\'s::1870\'s::1880\'s::1930\'s::1890\'s</item>
+		<item>MC::World War II was fought in what decade?::1940\'s::1950\'s::1910\'s::1920\'s::1930\'s::1970\'s</item>
+		<item>MC::Who was leader of Germany leading up to and during World War II?::Adolf Hitler::Joseph Goebbels::Heinrich Himmler::Hermann Goering::Martin Bormann::Rudolf Hess::Oscar Schindler</item>
+		<item>MC::Who controlled Cuba for most of the second half of the 20th century?::Fidel Castro::Francisco Pizarro::Imelda Marcos::Eva Peron::Juan Ponce de Leon::Marcos Jiminez</item>
+		<item>MC::The World Trade Center towers were attacked and destroyed on what date?::Sept. 11, 2001::Sept. 11, 2002::Sept. 22, 2000::Oct. 11, 2001::Sept. 1, 1999</item>
+		<item>MC::How many states are there in the present United States?::50::52::48::40::13::55</item>
+		<item>MC::How long is the term of the President of the United States?::4 years::8 years::2 years::3 years::5 years::44 months</item>
+		<item>MC::Which is not a branch of the United States Armed Forces?::F.B.I.::Army::Navy::Marines::Coast Guard</item>
+		<item>MC::What two countries does the United States share a border with?::Canada and Mexico::Canada and Russia::Russia and Mexico::Cuba and Mexico::Jamaica and Canada</item>
+		<item>MC::The battle of Gettysburg was part of which war?::The Civil War::World War I::World War II::The War of 1812::The Spanish-American War::The Korean War</item>
+	</string-array>
+	<string-array name="level_2_questions">
+		<item>MC::What was the start and end point of Paul Revere\'s midnight ride?::Boston to Lexington::Lexington to Concord::Boston to New Hampshire::New York to Boston::Boston to Providence</item>
+		<item>MC::How many constitutional amendments make up the Bill of Rights?::10::5::27::22::15::8</item>
+		<item>MC::What Native American woman served as guide and interpreter for the Lewis and Clark expedition?::Sacagawea::Sitting Bull::Custer::Little Feather::Geronimo::Betsy Ross</item>
+		<item>MC::Who was the President of the Confederacy during the Civil War?::Jefferson Davis::Abraham Lincoln::Robert E Lee::Ulysses S Grant::Joseph Johnston::Stephen Douglas</item>
+		<item>MC::Which of the following was not a battleground in the Spanish-American war?::Mexico::Puerto Rico::Cuba::Philippines::Guam</item>
+		<item>MC::What does \"women's suffrage\" mean?::The right for women to vote::The pain of women::Childbirth::The right for women to be elected president::The right for women to own property</item>
+		<item>MC::What came after the Stock Market Crash of 1929?::The Great Depression::The Cold War::Socialism::The Industrial Revolution::The Civil War</item>
+		<item>MC::Approximately how many people died in WWII (military and civilian)?::73,000,000::51,000,000::15,000,000::130,000,000::200,000,000</item>
+		<item>MC::Which of the following Civil Rights figures was not assassinated?::Rosa Parks::Martin Luther King, Jr.::Robert F Kennedy::John F Kennedy::Malcolm X</item>
+		<item>MC::President Richard Nixon resigned to avoid impeachment over what scandal?::Watergate::Whitewater::Iran-Contra affair::Pentagon Papers::Bay of Pigs</item>
+		<item>MC::What was the name of the first successful British colony in America?::Jamestown::New York::Washington::Plymouth::Virginia::New London</item>
+		<item>MC::Who wrote the Declaration of Independence?::Thomas Jefferson::George Washington::James Madison::John Quincy Adams::Stephen Douglas::Samuel Adams</item>
+		<item>MC::Which President issued the Emancipation Proclamation?::Abraham Lincoln::John Adams::William Henry Harrison::Woodrow Wilson::Theodore Roosevelt</item>
+		<item>MC::Which war led to the formation of the United Nations?::World War II::World War I::The war of 1812::Vietnam War::Korean War::Spanish-American War</item>
+		<item>MC::Who was the first female justice to sit on the Supreme Court?::Sandra Day O\'Conner::Ruth Bader Ginsburg::Gloria Steinem::Louisa May Alcott::Ladybird Johnson::Susan B. Anthony</item>
+		<item>MC::Who were the leaders of the United States and Russia during the Cuban Missile Crisis?::John F Kennedy and Nikita Khrushchev::John F Kennedy and Mikhail Gorbachev::Richard Nixon and Nikita Khrushchev::Richard Nixon and Josef Stalin::Gerald Ford and Mikhail Gorbachev::Dwight Eisenhower and Josef Stalin</item>
+		<item>MC::How many United States Senators are there?::100::60::248::50::101</item>
+		<item>MC::What was the final land battle in the Revolutionary War?::Yorktown::Gettysburg::Jamestown::Lexington-Concord::Georgetown::New York</item>
+		<item>MC::Which of the following did not have a significant American colony in the 16th and 17th century?::Germany::England::France::Sweden::Netherlands::Spain</item>
+		<item>MC::What was the first Constitution of the United States called?::Articles of Confederation::First Constitution::Stars and Stripes::Declaration of Constitution::Common Sense::The Federalist Papers</item>
+		<item>MC::Who wrote the influential pamphlet Common Sense during the lead-up to the Revolutionary War?::Thomas Paine::Samuel Adams::Patrick Henry::Thomas Jefferson::Benjamin Franklin</item>
+		<item>MC::From what country did the United States purchase the Louisiana Territory?::France::Spain::Germany::England::The Netherlands::Sweden::Italy</item>
+		<item>MC::This Supreme Court case struck down the legality of \"separate but equal\" services for different races.::Brown v. Board of Education::Plessy v. Furgeson::Roe v. Wade::Miranda v. Arizona</item>
+		<item>MC::Which famous general switched sides in the Revolutionary War in 1779?::Benedict Arnold::Ethan Allen::John Burgoyne::Charles Cornwallis::Patrick Henry::Edward Rutledge</item>
+	</string-array>
+	<string-array name="level_3_questions">
+		<item>MC::Who made the first confirmed landing on the continental United States?::Juan Ponce de Leon::Hernan Cortez::Francisco Pizarro::Christopher Columbus::Ferdinand Magellan</item>
+		<item>MC::When was the United States Constitution created?::1787::1789::1779::1776::1801::1792</item>
+		<item>MC::Which was the last of the original 13 states to ratify the Constitution?::Maryland::Delaware::Pennsylvania::Rhode Island::Georgia::New Jersey</item>
+		<item>MC::What is the name of the American theater of the Seven Years\' War?::The French and Indian War::The Mexican-American War::The Spanish-American War::The War of 1812::King George\'s War</item>
+		<item>MC::Which of these did George Washington warn against in his farewell address?::Formation of political parties::Sales tax::Real estate tax::The military-industrial complex::Science::Religion</item>
+		<item>MC::What percent of white males died in the Civil War?::8%::1%::2%::4%::16%</item>
+		<item>MC::Which Constitutional Amendment outlaws slavery?::13th::8th::4th::12th::19th::10th</item>
+		<item>MC::The sinking of what ship started the Spanish-American War?::The USS Maine::The USS Lincoln::The USS California::The USS Liberty::The USS Delaware</item>
+		<item>MC::Who was assassinated to spark World War I?::Franz Ferdinand::Gavrilo Princip::Theobald von Bethmann Hollweg::Erich Ludendorff::George Creel::Tsar Nicholas II</item>
+		<item>MC::Alcohol was made illegal by what Constitutional Amendment?::18th::19th::14th::5th::27th::21st</item>
+		<item>MC::How many troops landed on the beaches in Normandy on D-Day (WWII)?::160,000::100,000::80,000::1,500,000::550,000::17,000</item>
+		<item>MC::Which Japanese city did the United States attack using a nuclear bomb?::Hiroshima::Tokya::Kyoto::Okinawa::Osaka::Sapporo::Kobe</item>
+		<item>MC::What mission landed men on the moon for the first time?::Apollo 11::Apollo 13::Luna 16::Apollo 9::Pioneer 10::Mariner 2</item>
+		<item>MC::What was the dividing line between North and South Korea?::The 38th parallel::The 9th parallel::The Korean equator::Hill 39::The Mason-Dixon Line::The 39th parallel::The 14th latitude</item>
+		<item>MC::Nearly 20 computing companies, including Apple Computer, came from this club in Silicon Valley::Homebrew Computer Club::Stanford Computer Club::Captain Crunch Club::California Microprocessor Club::Silicon Valley Club</item>
+		<item>MC::What was the original name of what is now New York City?::New Amsterdam::New London::New Georgetown::Yorkshire::Manhattan::New Netherlands</item>
+		<item>MC::Which of the following led the capture of Fort Ticonderoga in 1775?::Benedict Arnold::George Washington::Patrick Henry::Thomas Jefferson::John Paul Jones::Thomas Gage</item>
+		<item>MC::Approximately what percent of colonists were loyal to the British crown during the Revolutionary War?::15-20%::40-45%::5-10%::1-2%::30-40%::25%</item>
+		<item>MC::While trying a new shortcut to California, this wagon train got lost and eventually resorted to cannibalism.::The Donner Party::Louis &amp; Clark::The Johnson Party::The Oregon Trail::The Dahmer Party</item>
+		<item>MC::This is the belief that the United States is naturally intended to expand across the continent of North America.::Manifest Destiny::The Marshall Plan::Expeditionary Inevitability::Manifest Superiority::Westward Expansionism</item>
+		<item>MC::How many states seceded to begin the Civil War?::11::10::9::12::13::15::7</item>
+		<item>MC::What was the capital of the Confederacy?::Richmond, Virginia::Raleigh, North Carolina::Alexandria, Virginia::Savannah, Georgia::Jackson, Mississippi::Charleston, South Carolina</item>
+		<item>MC::What was America\'s first planned factory town?::Lowell, Massachusetts::Pittsburgh, Pennsylvania::Hartford, Connecticut::Springfield, Massachusetts::Pawtucket, Rhode Island::Fort Mill, South Carolina</item>
+		<item>MC::Which alliance did the United States fight with in World War I?::The Entente Powers::The Central Powers::The Allies::The Axis::The Union::The League of Nations</item>
+		<item>MC::Which is not a territory of the United States?::The Bahamas::Puerto Rico::Guam::American Samoa::United States Virgin Island::Northern Mariana Islands</item>
+	</string-array>
+	<string-array name="start_strings">
+	    <item>Ready?</item>
+	    <item>Let\'s get started!</item>
+	    <item>Let me think of some questions... okay, got \'em!</item>
+	    <item>I am sooo ready for this!</item>
+	</string-array>
+	<string-array name="failed_quiz_strings">
+		<item>Oooo, you didn\'t do so good with those, only %score%, let\'s try again!</item>
+		<item>Sorry, I\'m going to need more than %score% to keep going!</item>
+		<item>That... wasn't really that good, only %score%. You\'re still cute though, so let\'s try again</item>
+		<item>I think you can do better than %score%, don\'t let me down!</item>
+	</string-array>
+	<string-array name="success_quiz_strings">
+		<item>Oh, you\'re good, you got %score%! Let\'s try some *ahem* harder *ahem* questions!</item>
+		<item>You got %score%! Thinking that I\'m motivating you is getting me all... keep going!</item>
+		<item>Yeah! %score%! Keep it up and we\'ll be done early, then I don\'t know what we'll do...</item>
+	</string-array>
+	<string-array name="success_mastered_strings">
+		<item>You got %score% on my hardest questions! I\'ll call you master! We can go again if you want</item>
+		<item>God you\'re so smart! %score% on my best quiz! I can\'t get over it, show me again!</item>
+		<item>%score%! Maybe you can teach me some things now...</item>
+	</string-array>
+	<string-array name="success_question_strings">
+		<item>Hey! That\'s right! I\'m getting revved up now, let\'s keep going!</item>
+		<item>You\'re good! I\'m not being... distracting, am I?</item>
+		<item>Great! I knew I could find ways to motivate you!</item>
+		<item>Wow! You\'ve got a big brain, too!</item>
+		<item>Right! You\'re the cutest student I\'ve ever had!</item>
+		<item>Awesome! At this rate we\'ll have to come up with other things to fill the time...</item>
+		<item>You got it! I think you pretended not to know these things just to get me here</item>
+	</string-array>
+</resources>

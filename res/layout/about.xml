@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/about_layout"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+    android:id="@+id/about_text"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="All About History 101 from Naughty Teachers Mobile"
+    android:textSize="16px"
+    android:textColor="#fdd"
+    />
+<TextView
+    android:id="@+id/about_text"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="\nCopyright 2009 Naughty Teachers Mobile, Inc. Visit http://sites.google.com/site/naughtyteachersmobile/ for more information about this application. All models are over the age of 18, all questions are original creations, all programming is hastily executed and probably buggy.\n\nNone of this 'about' stuff has legal meaning or whatever because I don't know how to write that stuff properly. Mostly this is just a pointer to the main website. Any questions can go to joe@daverin.com. Enjoy!"
+    android:textSize="12px"
+    android:textColor="#fff"
+    />
+</LinearLayout>
